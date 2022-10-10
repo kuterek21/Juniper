@@ -1,0 +1,4 @@
+set vlans NAME vlan-id 105
+
+SVI
+set vlans VOICE vlan-id 110 l3-interface
