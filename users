@@ -1,0 +1,7 @@
+set system login user Mariusz class
+------------------------------------
+//class <class> - login class
+//operator permission[clear network reset trace view]
+//read-only permission [view]
+//super-user permission[all]
+//unauthorized permission[none]
