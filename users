@@ -1,4 +1,6 @@
-set system login user Mariusz class
+set system login user Mariusz class super-user authentication plain-text-password
+pass:
+pass:
 ------------------------------------
 //class <class> - login class
 //operator permission[clear network reset trace view]
