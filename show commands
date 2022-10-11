@@ -1,3 +1,7 @@
 https://www.juniper.net/documentation/us/en/software/junos/junos-overview/topics/ref/command/show-version.html
 ========================================
 show system processes extednsive | match
+
+- show stack
+
+show virtual-chassis
